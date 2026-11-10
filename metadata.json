@@ -1,0 +1,6 @@
+{
+  "name": "Aurum Imóveis | Catálogo Premium",
+  "description": "Catálogo imobiliário exclusivo de alto padrão com integração WhatsApp para atendimento imediato e sincronização de imóveis via link no painel administrativo restrito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
